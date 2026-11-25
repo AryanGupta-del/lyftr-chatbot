@@ -4,8 +4,8 @@ React + FastAPI + SQLite, with LiteLLM handling the model calls.
 
 ## 1. Live URLs
 
-- Frontend: `https://<your-frontend>.vercel.app`  <!-- fill in -->
-- Backend: `https://<your-backend>.onrender.com`  <!-- fill in -->
+- Frontend: `https://lyftr-chatbot-beta.vercel.app`  <!-- fill in -->
+- Backend: `https://lyftr-chatbot-lsjm.onrender.com`  <!-- fill in -->
 - Health check: `<backend>/health`
 - Demo video: `<link>`
 
